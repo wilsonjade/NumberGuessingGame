@@ -1,0 +1,14 @@
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\bin\Debug\net6.0\NumberGuessingGameProgram.exe
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\bin\Debug\net6.0\NumberGuessingGameProgram.deps.json
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\bin\Debug\net6.0\NumberGuessingGameProgram.runtimeconfig.json
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\bin\Debug\net6.0\NumberGuessingGameProgram.dll
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\bin\Debug\net6.0\NumberGuessingGameProgram.pdb
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\NumberGuessingGameProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\NumberGuessingGameProgram.AssemblyInfoInputs.cache
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\NumberGuessingGameProgram.AssemblyInfo.cs
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\NumberGuessingGameProgram.csproj.CoreCompileInputs.cache
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\NumberGuessingGameProgram.dll
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\refint\NumberGuessingGameProgram.dll
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\NumberGuessingGameProgram.pdb
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\NumberGuessingGameProgram.genruntimeconfig.cache
+C:\Users\jadex\source\repos\NumberGuessingGameProgram\NumberGuessingGameProgram\obj\Debug\net6.0\ref\NumberGuessingGameProgram.dll
